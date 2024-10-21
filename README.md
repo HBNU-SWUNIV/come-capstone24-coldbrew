@@ -1,7 +1,24 @@
 # 💻 한밭대학교 컴퓨터공학과 COldBrew팀
 **팀 구성**
-- 20217144 이원호
-- 20191745 이승주
+<table>
+    <tr align="center">
+        <td><img src="./image1.jpg" width="250"></td>
+        <td><img src="./image2.jpg" width="250"></td>
+    </tr>
+    <tr align="center">
+        <td>20217144 이원호</td>
+        <td>20191745 이승주</td>
+    </tr>
+    <tr align="center">
+        <td>****1683</td>
+        <td>****1557</td>
+    </tr>
+    <tr align="center">
+        <td>Frontend</td>
+        <td>Backend</td>
+    </tr>
+</table>
+
   
 <br>
 
@@ -36,95 +53,27 @@
 
 
 
-|번역된 공지사항|공지사항 디테일|번역된 학식정보|
-|------|---|---|
-|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/8f30d871-0e41-4009-8832-4f7cefd1867b">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/62146792-21cc-4eb4-bbfd-98daa4ae159e">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/34695d44-0efb-4cb7-9efa-a1547ab8ee82">|
-<br>
-
 #### 2️⃣ 
 
 
-
-|국민대 관련 질문|다국어 지원|일상 대화|
-|------|---|---|
-|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/4ebbe481-d563-45c7-b8dc-65c87877d6c6">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/7b9c7a7f-339d-4a53-ad1d-a90a3988a75e">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/b10efb4b-110c-4ca8-aff7-c38445256123">|
-<br>
 
 #### 3️⃣ 
 
 
 
-|일상생활에 자주쓰는 예문 지원|문장 커스텀 지원|발음 평가 제공|
-|------|---|---|
-|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/d31a5971-f01b-469f-8345-db9ea5c152cb">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/d0cb0cb5-7043-4737-8994-119dc5139220">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/dee0fc3a-481e-4612-bb2a-760321efdfbe">|
-<br>
 
 #### 4️⃣
 
 
-|헬퍼 및 헬피 게시판|디테일|채팅|
-|------|---|---|
-|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/60f40d3b-4930-4c4a-bcb3-1e97a75119c0">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/141b4d12-070e-4e59-abe2-22bd5f96547e">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/00644b04-3e5e-416f-ba57-b45662e45869">|
-<br>
-
 #### 5️⃣ 
 
-
-
-|Q&A 게시판|디테일|FAQ 조회|
-|------|---|---|
-|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/5801b9fa-fb82-48f6-a675-0997c6bfae34">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/ae9525c7-c605-4e88-9ea2-49285bbe84bd">|<img width="388" src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/dcaa5cf2-0f9c-457f-a81c-351bd4578ca7">|
 
 
 <br>
 
 ## 5. Case Study
 
-<table>
-    <tr align="center">
-        <td><img src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/5a581293-0461-462b-b14d-5c98c079860f" width="250"></td>
-        <td><img src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/074c4543-e44a-4bb6-baf8-7c3f0d9f1e3d" width="250"></td>
-        <td><img src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/7627b57d-585c-4021-b02a-5ae6daded453" width="250"></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://github.com/ji-hunc">최지훈</a></td>
-        <td><a href="https://github.com/kevinmj12">김민제</a></td>
-        <td><a href="https://github.com/mclub4">조현진</a></td>
-    </tr>
-    <tr align="center">
-        <td>****1683</td>
-        <td>****1557</td>
-        <td>****1675</td>
-    </tr>
-    <tr align="center">
-        <td>👑 Frontend</td>
-        <td>Frontend</td>
-        <td>Backend</td>
-    </tr>
-</table>
 
-<table>
-    <tr align="center">
-        <td><img src="https://github.com/kookmin-sw/capstone-2024-30/assets/53148103/9c6d6e4b-0f85-4489-9f93-f1cf6774fd50" width="250"></td>
-        <td><img src="https://github.com/kookmin-sw/capstone-2024-30/assets/54922676/cad2c04e-8c71-44c0-9be1-9f29c0244243" width="250"></td>
-        <td><img src="https://github.com/kookmin-sw/capstone-2024-30/assets/52407470/1c9ac172-5d97-4002-b254-c003f5d07ac2" width="250"></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://github.com/BlueBerrySoda">채원찬</a></td>
-        <td><a href="https://github.com/Borikhs">김혜성</a></td>
-        <td><a href="https://github.com/guahama">최영락</a></td>
-    </tr>
-    <tr align="center">
-        <td>****1676</td>
-        <td>****1582</td>
-        <td>****1678</td>
-    </tr>
-    <tr align="center">
-        <td>Backend</td>
-        <td>AI</td>
-        <td>AI</td>
-    </tr>
-</table>
 
 <br>
 
