@@ -1,4 +1,4 @@
-# 💻 한밭대학교 컴퓨터공학과 COldBrew팀
+# 💻 한밭대학교 컴퓨터공학과 ColdBrew팀☕
 **팀 구성**
 <table>
     <tr align="center">
