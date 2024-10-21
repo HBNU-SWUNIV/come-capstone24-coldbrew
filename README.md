@@ -1,5 +1,6 @@
 # 💻 한밭대학교 컴퓨터공학과 ColdBrew팀☕
-**팀 구성**
+<br>
+## 팀 구성 및 역할 분탐
 <table>
     <tr align="center">
         <td><img src="./image1.jpg" width="250"></td>
@@ -21,6 +22,30 @@
 
   
 <br>
+
+### 📊 Experimental Analysis
+
+| 역할                 | 종류                                                                                                                                                                                                                                                |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Simulation           | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                                                                                                                          |
+| Data                 | <img alt="RED" src ="https://img.shields.io/badge/CSV-003B57.svg?&style=for-the-badge&logo=csv&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Database-FFCA28.svg?&style=for-the-badge&logo=database&logoColor=white"/>       |
+| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                     |
+| Device               | <img src="https://img.shields.io/badge/F450%20Drone-000000?style=for-the-badge&logo=drone&logoColor=white"/>                                                                                                                                        |
+
+
+<br />
+
+### 📈  Algorithm Development                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 역할                 | 종류                                                                                                                                                                                                                                                |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Simulation           | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                                                                                                                          |
+| Data                 | <img alt="RED" src ="https://img.shields.io/badge/CSV-003B57.svg?&style=for-the-badge&logo=csv&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Database-FFCA28.svg?&style=for-the-badge&logo=database&logoColor=white"/>      |
+| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                     |
+| Algorithm Development| <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/A*-Algorithm-FF5733?style=for-the-badge&logoColor=white"/>  |
+
+                                                                                                                                                                                                                         
+<br />                                                                                                         
+
 
 ## 1. 프로젝트 소개 및 필요성
 
@@ -79,38 +104,11 @@
 
 ## 6. Description
 
-### 📊 Experimental Analysis
-
-| 역할                 | 종류                                                                                                                                                                                                                                                |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Simulation           | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                                                                                                                          |
-| Data                 | <img alt="RED" src ="https://img.shields.io/badge/CSV-003B57.svg?&style=for-the-badge&logo=csv&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Database-FFCA28.svg?&style=for-the-badge&logo=database&logoColor=white"/>       |
-| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                     |
-| Device               | <img src="https://img.shields.io/badge/F450%20Drone-000000?style=for-the-badge&logo=drone&logoColor=white"/>                                                                                                                                        |
-
-
-<br />
-
-### 📈  Algorithm Development                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 역할                 | 종류                                                                                                                                                                                                                                                |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Simulation           | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                                                                                                                          |
-| Data                 | <img alt="RED" src ="https://img.shields.io/badge/CSV-003B57.svg?&style=for-the-badge&logo=csv&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Database-FFCA28.svg?&style=for-the-badge&logo=database&logoColor=white"/>      |
-| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                     |
-| Algorithm Development| <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/A*-Algorithm-FF5733?style=for-the-badge&logoColor=white"/>  |
-
-                                                                                                                                                                                                                         
-<br />                                                                                                         
 
 <br>
 
 ## 7. Conclusion
 
-### 💻 서비스 아키택처
 
 
-
-### Metrics
-
-[RAGAS](https://docs.ragas.io/en/stable/concepts/metrics/index.html)
 
