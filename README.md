@@ -3,6 +3,7 @@
 ## 🙏 팀 구성 및 역할 분탐
 
 
+
 <table>
     <tr align="center">
         <td><img src="./image1.jpg" width="250"></td>
