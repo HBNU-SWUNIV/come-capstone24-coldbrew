@@ -6,16 +6,16 @@
         <td><img src="./image2.jpg" width="250"></td>
     </tr>
     <tr align="center">
-        <td>20217144 이원호</td>
-        <td>20191745 이승주</td>
+        <td>이원호</td>
+        <td>이승주</td>
     </tr>
     <tr align="center">
-        <td>****1683</td>
-        <td>****1557</td>
+        <td>20217144</td>
+        <td>20191745</td>
     </tr>
     <tr align="center">
-        <td>Frontend</td>
-        <td>Backend</td>
+        <td>Experimental Analysis</td>
+        <td>Algorithm Development</td>
     </tr>
 </table>
 
