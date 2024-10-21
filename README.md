@@ -96,8 +96,9 @@
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Simulation           | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                                                                                                                          |
 | Data                 | <img alt="RED" src ="https://img.shields.io/badge/CSV-003B57.svg?&style=for-the-badge&logo=csv&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Database-FFCA28.svg?&style=for-the-badge&logo=database&logoColor=white"/>      |
-| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>                                                                                                                                             |
+| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                     |
 | Algorithm Development| <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/A*-Algorithm-FF5733?style=for-the-badge&logoColor=white"/>  |
+
                                                                                                                                                                                                                          
 <br />                                                                                                         
 
