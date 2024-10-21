@@ -84,9 +84,14 @@
 | 역할                 | 종류                                                                                                                                                                                                                                                |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Simulation           | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                                                                                                                          |
-| Data                 | <img alt="RED" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> |
-| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>                                                                                                                                             |
-| Device               | <img src="https://img.shields.io/badge/Android-4A853?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/>                                          |
+| Data                 | <img alt="RED" src ="https://img.shields.io/badge/CSV-003B57.svg?&style=for-the-badge&logo=csv&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Database-FFCA28.svg?&style=for-the-badge&logo=database&logoColor=white"/>       |
+| Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>                                     |
+| Device               | <img src="https://img.shields.io/badge/F450%20Drone-000000?style=for-the-badge&logo=drone&logoColor=white"/>                                                                                                                                        |
+
+Simulation: MATLAB을 사용하여 드론 비행 경로와 통신 성능 시뮬레이션을 수행.
+Data: CSV 및 데이터베이스를 사용하여 실험 데이터를 저장 및 분석.
+Programming Language: MATLAB과 Python을 사용하여 알고리즘과 데이터 처리 작업 수행.
+Device: F450 드론을 사용하여 실험 및 연구를 진행.
 
 
 <br />
