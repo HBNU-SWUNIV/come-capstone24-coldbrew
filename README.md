@@ -82,7 +82,7 @@
 
 <br>
 
-## 3. System Design
+## 3. 최적의 통신 성능을 제공하는 경로 실험 및 필요성 증명
   - ### System Requirements
     - Rasberripy와 Jetson nano를 활용하여 소켓 통신 성능 비교
     - MATLAB을 이용하여 통신 성능 차이를 비교해보고 최적 경로의 필요성 증명
@@ -137,19 +137,15 @@
 #### - [1000번의 시뮬레이션 결과]
 <br>
 
-## 4. System Requirements
+## 4. 경로에 장애물이 있는 경우 (A* algorithm)
 
 #### 1️⃣ 
-
 
 
 #### 2️⃣ 
 
 
-
 #### 3️⃣ 
-
-
 
 
 #### 4️⃣
@@ -159,20 +155,10 @@
 
 
 
-<br>
-
-## 5. Case Study
-
-
 
 <br>
 
-## 6. Description
-
-
-<br>
-
-## 7. Conclusion
+## 5. Conclusion
 
 
 
