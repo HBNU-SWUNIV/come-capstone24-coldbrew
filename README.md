@@ -57,9 +57,10 @@
 
 
 ## 1. 프로젝트 소개 및 필요성
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img src="img/지형적 제한.jpg" width="400" height="300">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="img/전쟁상황 통신시스템 파괴.jpg" width="400" height="300">
+    <span style="font-size: 100px;">➡️</span> <!-- 이모지 삽입 -->
+    <img src="img/지형적 제한.jpg" width="400" height="300">
 </div>
 
 
