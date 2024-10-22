@@ -57,6 +57,11 @@
 
 
 ## 1. 프로젝트 소개 및 필요성
+<!-- 이미지 삽입 -->
+<div style="text-align: center;">
+    <img src="img/terrain_limitation.jpg" width="400" height="300" alt="지형적 제한" style="margin-right: 20px;">
+    <img src="img/war_communication_failure.jpg" width="400" height="300" alt="전쟁상황 통신시스템 파괴">
+</div>
 
 이 프로젝트는 전시 상황에서 드론이 임시 기지국 역할을 수행할 때, 제한된 비행 시간 내에서 최적의 통신 성능을 제공할 수 있는 비행 경로의 필요성을 증명하고 최적 경로를 분석합니다. 
 
