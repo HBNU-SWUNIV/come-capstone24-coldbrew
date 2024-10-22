@@ -129,9 +129,9 @@
     <img src="img/Jain’s Fairness Index result.jpg" style="max-width: 700px; height: auto;">
 </div>
 
-### 5️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
+### 5️⃣  - 왕복 이동 거리와 통신 시간의 반비례 관계 (최적의 통신 성능 임계점)
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-    <img src="img/1000번 시뮬레이션 case 결과물.jpg" width="700" height="500">
+    <img src="img/시뮬레이션 결과 임계점.jpg" width="700" height="500">
 </div>
 
 <br>
