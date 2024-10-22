@@ -77,7 +77,15 @@
 
 ## 3. System Design
 
-
+<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-FF8000?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2ECCFA?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Opencv-D7DF01?style=for-the-badge&logo=Opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-FF0000?style=for-the-badge&logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Influxdb-339933?style=for-the-badge&logo=Influxdb&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  - ### System Requirements
+    - Docker Container를 활용하여 논리적인 FL 환경 구축
+    - Rasberripy와 Jetson nano를 활용하여 물리적인 FL 환경 구축
+    - 서버와 클라이언트들의 CPU, 메모리, 디스크 용량, GPU 사용량 등의 데이터를 수집 도구인 telegraf를 이용해 시계열DB인 influxDB에 저장 후 Grafana를 이용해 모니터링 시스템 구축
+  - ### System Architecture
+  <img src="https://user-images.githubusercontent.com/81350489/205480991-4bfc31bd-1eeb-43cf-98e0-907d45c132f3.png" width=900>
+  <img src="https://user-images.githubusercontent.com/77391848/206162697-3ecd8eed-c61c-45e4-8d63-f07cd30ada5a.png" width=700>
 <br>
 
 ## 4. System Requirements
