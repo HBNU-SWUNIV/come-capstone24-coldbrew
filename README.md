@@ -104,9 +104,10 @@
     <img src="img/다양한 비행경로.jpg" width="700" height="500">
 </div>
 
-#### 3️⃣  - 1000번의 각 Case 별 시뮬레이션 결과
+#### 3️⃣  
 <div style="text-align: center;">
     <img src="img/1000번 시뮬레이션 case 결과물.jpg" style="max-width: 1000px; height: auto; margin-bottom: 20px;">
+    - Aggregate capacity result
     <img src="img/Aggregate capacity result.jpg" style="max-width: 500px; height: auto;">
 </div>
 
