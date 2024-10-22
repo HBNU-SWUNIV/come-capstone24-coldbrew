@@ -7,10 +7,10 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr align="center">
         <td style="padding: 0; border: 1px solid #ddd;">
-            <img src="./wh.jpg" width="250" height="300" style="object-fit: cover;">
+            <img src="img/wh.jpg" width="250" height="300" style="object-fit: cover;">
         </td>
         <td style="padding: 0; border: 1px solid #ddd;">
-            <img src="./sj.jpg" width="250" height="300" style="object-fit: cover;">
+            <img src="img/sj.jpg" width="250" height="300" style="object-fit: cover;">
         </td>
     </tr>
     <tr align="center">
@@ -26,6 +26,7 @@
         <td style="padding: 8px; border: 1px solid #ddd;">Algorithm Development</td>
     </tr>
 </table>
+
 
 
   
