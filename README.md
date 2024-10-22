@@ -134,6 +134,7 @@
     <img src="img/시뮬레이션 결과 임계점.jpg" width="700" height="500">
 </div>
 
+#### - [1000번의 시뮬레이션 결과]
 <br>
 
 ## 4. System Requirements
