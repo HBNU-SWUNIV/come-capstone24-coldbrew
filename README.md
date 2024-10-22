@@ -4,24 +4,29 @@
 
 
 
-<table>
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr align="center">
-        <td><img src="./wh.jpg" width="250"></td>
-        <td><img src="./sj.jpg" width="250"></td>
+        <td style="padding: 0; border: 1px solid #ddd;">
+            <img src="./wh.jpg" width="250" height="300" style="object-fit: cover;">
+        </td>
+        <td style="padding: 0; border: 1px solid #ddd;">
+            <img src="./sj.jpg" width="250" height="300" style="object-fit: cover;">
+        </td>
     </tr>
     <tr align="center">
-        <td>이원호</td>
-        <td>이승주</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">이원호</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">이승주</td>
     </tr>
     <tr align="center">
-        <td>20217144</td>
-        <td>20191745</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">20217144</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">20191745</td>
     </tr>
     <tr align="center">
-        <td>Experimental Analysis</td>
-        <td>Algorithm Development</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Experimental Analysis</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">Algorithm Development</td>
     </tr>
 </table>
+
 
   
 <br>
