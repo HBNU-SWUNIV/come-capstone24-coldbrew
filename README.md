@@ -88,15 +88,15 @@
     - 왕복 비행 시간과 통신 시간의 반비례 관계를 밝혀내고 시뮬레이션을 통해 최적의 성능을 가지는 임계점 발견
     - 왕복 이동 간 장애물이 있을 시 최적의 경로를 구해내는 알고리즘 개발
 
-#### 1️⃣
+#### 1️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/라즈베리파이&젯슨.png" width="400" height="300">
 </div>
  
-    - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
+
     
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-    <img src="img/데이터 송수신 실험결과.jpg" width="400" height="300">
+    <img src="img/데이터 송수신 실험결과.jpg" width="700" height="400">
 </div>
 
 #### 2️⃣ 
