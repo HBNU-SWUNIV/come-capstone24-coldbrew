@@ -101,21 +101,26 @@
 </div>
 
 #### 2️⃣  - 시뮬레이션을 이용하여 다양한 경로에서의 비행 경로 측정
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/다양한 비행경로.jpg" width="700" height="500">
 </div>
 
-#### 3️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
+#### 3️⃣  - 1000번의 각 Case 별 시뮬레이션 결과
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <img src="img/1000번 시뮬레이션 case 결과물.jpg" width="700" height="500">
+    <img src="img/Aggregate capacity result.jpg" width="400" height="300">
+</div>
 
-
-
-
-#### 4️⃣ - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
-
+#### 4️⃣ - Jain’s Fairness Index를 이용한 공정성 실험
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <img src="img/Jain’s Fairness Index.jpg" width="700" height="500">
+    <img src="img/Jain’s Fairness Index result.jpg" width="700" height="500">
+</div>
 
 #### 5️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+    <img src="img/1000번 시뮬레이션 case 결과물.jpg" width="700" height="500">
+</div>
 
 <br>
 
