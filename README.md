@@ -97,7 +97,7 @@
 
 ### - 데이터 송수신 실험 결과 (N4동 614호, N4동 405-2호)
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-    <img src="img/데이터 송수신 실험결과.jpg" width="700" height="400">
+    <img src="img/데이터 송수신 실험결과.jpg" width="1200" height="500">
 </div>
 
 #### 2️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
