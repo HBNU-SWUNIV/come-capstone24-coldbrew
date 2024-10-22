@@ -94,7 +94,7 @@
     <img src="img/라즈베리파이&젯슨.png" width="700" height="500">
 </div>
 
-#### - 데이터 송수신 실험 결과 (N4동 614호, N4동 405-2호)
+#### - 데이터 송수신 실험 결과 (N4동 614호 ↔️ N4동 405-2호)
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/데이터 송수신 실험결과.jpg" width="1200" height="500">
 </div>
