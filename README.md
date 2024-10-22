@@ -117,9 +117,12 @@
 ### 4️⃣ - Jain’s Fairness Index를 이용한 공정성 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/Jain’s Fairness Index.jpg" style="max-width: 700px; height: auto;">
-    <img src="img/Jain’s Fairness Index result.jpg" style="max-width: 700px; height: auto;">
 </div>
 
+#### - Jain’s Fairness Index result
+<div style="text-align: center;">
+    <img src="img/Jain’s Fairness Index result.jpg" style="max-width: 700px; height: auto;">
+</div>
 
 ### 5️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
