@@ -106,8 +106,8 @@
 
 #### 3️⃣  - 1000번의 각 Case 별 시뮬레이션 결과
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-    <img src="img/1000번 시뮬레이션 case 결과물.jpg" width="700" height="500">
-    <img src="img/Aggregate capacity result.jpg" width="400" height="300">
+    <img src="img/1000번 시뮬레이션 case 결과물.jpg" width="1200" height="700">
+    <img src="img/Aggregate capacity result.jpg" width="800" height="300">
 </div>
 
 #### 4️⃣ - Jain’s Fairness Index를 이용한 공정성 실험
