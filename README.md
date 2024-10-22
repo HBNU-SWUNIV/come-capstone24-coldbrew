@@ -91,8 +91,8 @@
 
 #### 1️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; width: 100%;">
-    <img src="img/라즈베리파이&젯슨.png" width="600" height="300">
-    <img src="img/소켓 프로그래밍 수행 내용.jpg" width="900" height="400">
+    <img src="img/라즈베리파이&젯슨.png" width="900" height="500">
+    <img src="img/소켓 프로그래밍 수행 내용.jpg" width="1200" height="500">
 </div>
 
 ### - 데이터 송수신 실험 결과 (N4동 614호, N4동 405-2호)
