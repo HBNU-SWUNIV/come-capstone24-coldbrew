@@ -109,6 +109,7 @@
     <img src="img/1000번 시뮬레이션 case 결과물.jpg" style="max-width: 1000px; height: auto; margin-bottom: 20px;">
 </div>
 
+#### - Average capacity result
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/평균 용량 계산.jpg" style="max-width: 700px; height: auto;">
 </div>
