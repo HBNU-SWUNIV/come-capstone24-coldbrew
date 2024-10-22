@@ -57,7 +57,7 @@
 
 
 ## 1. 프로젝트 소개 및 필요성
-<div style="display: flex; justify-content: center; gap: 200px !important;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 200px;">
     <img src="img/지형적 제한.jpg" width="400" height="300">
     <img src="img/전쟁상황 통신시스템 파괴.jpg" width="400" height="300">
 </div>
