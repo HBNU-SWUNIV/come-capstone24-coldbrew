@@ -111,6 +111,7 @@
 </div>
 
 
+
 #### 4️⃣ - Jain’s Fairness Index를 이용한 공정성 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/Jain’s Fairness Index.jpg" width="700" height="500">
