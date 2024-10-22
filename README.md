@@ -89,38 +89,38 @@
     - 왕복 비행 시간과 통신 시간의 반비례 관계를 밝혀내고 시뮬레이션을 통해 최적의 성능을 가지는 임계점 발견
     - 왕복 이동 간 장애물이 있을 시 최적의 경로를 구해내는 알고리즘 개발
 
-#### 1️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
+### 1️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; width: 100%;">
     <img src="img/라즈베리파이&젯슨.png" width="700" height="500">
 </div>
 
-### - 데이터 송수신 실험 결과 (N4동 614호, N4동 405-2호)
+#### - 데이터 송수신 실험 결과 (N4동 614호, N4동 405-2호)
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/데이터 송수신 실험결과.jpg" width="1200" height="500">
 </div>
 
-#### 2️⃣  - 시뮬레이션을 이용하여 다양한 경로에서의 비행 경로 측정
+### 2️⃣  - 시뮬레이션을 이용하여 다양한 경로에서의 비행 경로 측정
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/다양한 비행경로.jpg" width="700" height="500">
 </div>
 
-#### 3️⃣  - 1000번 시뮬레이션 case 결과물
+### 3️⃣  - 1000번 시뮬레이션 case 결과물
 <div style="text-align: center;">
     <img src="img/1000번 시뮬레이션 case 결과물.jpg" style="max-width: 1000px; height: auto; margin-bottom: 20px;">
 </div>
 
-### - Aggregate capacity result
+#### - Aggregate capacity result
 <div style="text-align: center;">
     <img src="img/Aggregate capacity result.jpg" style="max-width: 500px; height: auto;">
 </div>
 
-#### 4️⃣ - Jain’s Fairness Index를 이용한 공정성 실험
+### 4️⃣ - Jain’s Fairness Index를 이용한 공정성 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/Jain’s Fairness Index.jpg" width="700" height="500">
     <img src="img/Jain’s Fairness Index result.jpg" width="700" height="500">
 </div>
 
-#### 5️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
+### 5️⃣  - Rasberripy와 Jetson nano를 활용하여 서로 통신이 가능한지 여부를 확인하고 교차 실험
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/1000번 시뮬레이션 case 결과물.jpg" width="700" height="500">
 </div>
