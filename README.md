@@ -6,8 +6,8 @@
 
 <table>
     <tr align="center">
-        <td><img src="./image1.jpg" width="250"></td>
-        <td><img src="./image2.jpg" width="250"></td>
+        <td><img src="./wh.jpg" width="250"></td>
+        <td><img src="./sj.jpg" width="250"></td>
     </tr>
     <tr align="center">
         <td>이원호</td>
