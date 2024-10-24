@@ -139,21 +139,16 @@
 
 ## 4. 경로에 장애물이 있는 경우 (A* algorithm)
 
-#### 1️⃣ 
+###🅰️ - 2D A* 경로
+<div style="text-align: center;">
+    <img src="img/2D path.jpg" style="max-width: 700px; height: auto;">
+</div>
 
 
-#### 2️⃣ 
-
-
-#### 3️⃣ 
-
-
-#### 4️⃣
-
-
-#### 5️⃣ 
-
-
+###🅱️ -3D A* 경로
+<div style="text-align: center;">
+    <img src="img/3D path.jpg" style="max-width: 700px; height: auto;">
+</div>
 
 
 <br>
