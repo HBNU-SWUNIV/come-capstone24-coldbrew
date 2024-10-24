@@ -109,12 +109,12 @@
     <img src="img/1000번 시뮬레이션 case 결과물.jpg" style="max-width: 1000px; height: auto; margin-bottom: 20px;">
 </div>
 
-#### - Average capacity result
+### - Average capacity result
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
     <img src="img/평균 용량 계산.jpg" style="max-width: 700px; height: auto;">
 </div>
 
-#### - Aggregate capacity result
+### - Aggregate capacity result
 <div style="text-align: center;">
     <img src="img/Aggregate capacity result.jpg" style="max-width: 500px; height: auto;">
 </div>
@@ -124,7 +124,7 @@
     <img src="img/Jain’s Fairness Index.jpg" style="max-width: 700px; height: auto;">
 </div>
 
-#### - Jain’s Fairness Index result
+### - Jain’s Fairness Index result
 <div style="text-align: center;">
     <img src="img/Jain’s Fairness Index result.jpg" style="max-width: 700px; height: auto;">
 </div>
@@ -134,7 +134,7 @@
     <img src="img/시뮬레이션 결과 임계점.jpg" width="700" height="500">
 </div>
 
-#### - [1000번의 시뮬레이션 결과]
+### - [1000번의 시뮬레이션 결과]
 <br>
 
 ## 4. 경로에 장애물이 있는 경우 (A* algorithm)
