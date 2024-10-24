@@ -161,6 +161,12 @@ MATLAB과 Simulation을 이용하여 통신 성능의 차이를 직접 비교함
 
 추가로 왕복 비행 경로에 장애물이 있는 경우 피해서 최적 경로를 찾기 위해 A* 알고리즘을 적용하여 비행하는 것을 Simulation을 통해 구현하였습니다.
 
+
+<div style="text-align: center;">
+    <img src="img/system.jpg" style="max-width: 700px; height: auto;">
+</div>
+
+
 <br>
 
 ## 6. Project Outcome 🏆
